@@ -1,0 +1,9 @@
+Package: nfs-clean-log
+Version: 1.0.1
+Architecture: amd64
+Maintainer: nfs china
+Installed-Size: 16
+Section: utils
+Priority: optional
+Homepage: https://www.nfschina.com
+Description: clean log

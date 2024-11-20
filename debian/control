@@ -1,0 +1,11 @@
+Source: nfs-clean-log
+Section: utils
+Priority: optional
+Maintainer: nfs china
+Build-Depends:
+Standards-Version: 4.3.0
+Homepage: https://www.nfschina.com
+
+Package: nfs-clean-log
+Architecture: any
+Description: clean log
